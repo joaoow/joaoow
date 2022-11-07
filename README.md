@@ -1,5 +1,7 @@
 <h3>Offensive Security/Red Team<h3>
   
+ - Membro da OpKillNet
+  
 - Hacker chapéu cinza
   
 - Cybersecurity
