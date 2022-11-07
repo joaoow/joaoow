@@ -8,4 +8,4 @@
   
 - RedTeam
 
-<img src=discord-hacking.gif>
+<img src=hacker.gif>
