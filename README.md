@@ -1,6 +1,6 @@
 <h3>Offensive Security/Red Team<h3>
   
-- Hacker Chapéu cinza
+- Hacker chapéu cinza
   
 - Cybersecurity
   
