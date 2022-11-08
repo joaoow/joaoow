@@ -1,6 +1,8 @@
 <h3>Offensive Security/Red Team<h3>
    
-- Hacker chapéu cinza
+- Hacker 
+   
+- Legião TDI
   
 - Cybersecurity
   
