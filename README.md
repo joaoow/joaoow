@@ -10,4 +10,4 @@
   
 - RedTeam
 
-<img src=giphy.gif height=350 width=800   >
+<img src=giphy.gif height=350 width=600   >
