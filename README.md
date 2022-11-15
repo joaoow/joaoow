@@ -1,6 +1,6 @@
 <h3>Offensive Security<h3>
    
-- Hacker GreyHat
+- Hacker GrayHat
 - Legião TDI
 - Cybersecurity
 - Linux nível pleno
