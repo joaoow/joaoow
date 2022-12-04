@@ -1,11 +1,4 @@
-<h3>Offensive Security<h3>
-   
-- Hacker GrayHat
-- Legião TDI
-- Cybersecurity
-- Linux nível pleno
-- RedTeam
- 
-<h4>- Se quiser bater um papo,siga-me no twitter <h4>
-
+- Cheirador de chulé
+- Amo cheirar allstar com bastante chulé
+- Punheteiro cheirador de chulé
 <img src=mrrobot00.png height=440 width=800   >
